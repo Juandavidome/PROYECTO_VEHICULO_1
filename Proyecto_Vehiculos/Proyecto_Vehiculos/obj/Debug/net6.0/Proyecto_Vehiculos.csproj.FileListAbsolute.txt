@@ -1,0 +1,15 @@
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\bin\Debug\net6.0\Proyecto_Vehiculos.exe
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\bin\Debug\net6.0\Proyecto_Vehiculos.deps.json
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\bin\Debug\net6.0\Proyecto_Vehiculos.runtimeconfig.json
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\bin\Debug\net6.0\Proyecto_Vehiculos.dll
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\bin\Debug\net6.0\Proyecto_Vehiculos.pdb
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\obj\Debug\net6.0\Proyecto_Vehiculos.csproj.AssemblyReference.cache
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\obj\Debug\net6.0\Proyecto_Vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\obj\Debug\net6.0\Proyecto_Vehiculos.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\obj\Debug\net6.0\Proyecto_Vehiculos.AssemblyInfo.cs
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\obj\Debug\net6.0\Proyecto_Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\obj\Debug\net6.0\Proyecto_Vehiculos.dll
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\obj\Debug\net6.0\refint\Proyecto_Vehiculos.dll
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\obj\Debug\net6.0\Proyecto_Vehiculos.pdb
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\obj\Debug\net6.0\Proyecto_Vehiculos.genruntimeconfig.cache
+C:\Users\SONY\source\repos\Proyecto_Vehiculos\Proyecto_Vehiculos\obj\Debug\net6.0\ref\Proyecto_Vehiculos.dll
